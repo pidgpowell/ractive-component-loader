@@ -1,6 +1,6 @@
 {
   "name": "@thomsbg/ractive-component-loader",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ractive component loader module for webpack",
   "main": "index.js",
   "repository": {
@@ -19,16 +19,16 @@
     "test": "mocha"
   },
   "peerDependencies": {
-    "ractive": "0.x"
+    "ractive": "1.x"
   },
   "devDependencies": {
     "chai": "1.x",
     "mocha": "1.x",
-    "ractive": "0.x"
+    "ractive": "1.x"
   },
   "dependencies": {
     "clean-css": "3.x",
-    "rcu": "0.x",
+    "rcu": "0.11",
     "tosource": "0.x"
   },
   "publishConfig": {

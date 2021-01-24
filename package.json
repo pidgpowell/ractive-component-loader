@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "clean-css": "3.x",
-    "rcu": "0.11",
+    "rcu": "^0.11.9",
     "tosource": "0.x"
   },
   "publishConfig": {
